@@ -1,0 +1,6 @@
+[Desktop Entry]
+	Type=Application
+	Name=ControlTerminalV3.0
+	Exec=qt_sub
+	Icon=compass.png
+	Categories=Office;

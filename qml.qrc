@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>uokpl.rs-nickelback-png-614681.png</file>
+        <file>odom.png</file>
+        <file>FACE-512.png</file>
+        <file>Compass-Free-PNG-Image.png</file>
+        <file>compass.png</file>
+        <file>ARROW-Bright.png</file>
+        <file>adi_ring.svg</file>
+        <file>adi_face.svg</file>
+        <file>adi_case.svg</file>
+        <file>adi_back.svg</file>
+        <file>ballast.png</file>
+        <file>sensor2_red.png</file>
+        <file>sensor2_green.png</file>
+        <file>sensor1_red.png</file>
+        <file>sensor1_green.png</file>
+        <file>pump2_red.png</file>
+        <file>pump2_green.png</file>
+        <file>pump1_red.png</file>
+        <file>pump1_green.png</file>
+        <file>background.png</file>
+        <file>switch.png</file>
+        <file>battery.png</file>
+        <file>depth.png</file>
+        <file>rpm.png</file>
+        <file>throttle.png</file>
+        <file>current.png</file>
+        <file>current_center.png</file>
+        <file>rpm_center.png</file>
+        <file>battery1.png</file>
+        <file>current_bottom.png</file>
+        <file>gps_arrow.png</file>
+    </qresource>
+    <qresource prefix="/scenegraph/graph">
+    <file>shaders/noisy.vsh</file>
+    <file>shaders/noisy.fsh</file>
+    <file>shaders/line.vsh</file>
+    <file>shaders/line.fsh</file>
+    </qresource>
+</RCC>
